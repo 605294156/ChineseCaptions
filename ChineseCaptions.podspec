@@ -26,6 +26,8 @@ Pod::Spec.new do |spec|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
                     1、Xcode控制台打印中文
+                    2、没有了
+		    3、这里是欢乐家的乐园，请这个小朋友做好自己的位置，再来我这里领取糖果一块。
                    DESC
 
   spec.homepage     = "https://github.com/605294156/ChineseCaptions.git"
