@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ChineseCaptions"
-  spec.version      = "1.0.0"
+  spec.version      = "1.1.0"
   spec.summary      = "这是个常用Xcode控制台打印中文的工具 author:成."
 
   # This description is used to generate tags and improve search results.
@@ -28,6 +28,7 @@ Pod::Spec.new do |spec|
                     1、Xcode控制台打印中文
                     2、没有了
 		    3、这里是欢乐家的乐园，请这个小朋友做好自己的位置，再来我这里领取糖果一块。
+		    4、增加解析数据模型
                    DESC
 
   spec.homepage     = "https://github.com/605294156/ChineseCaptions.git"
